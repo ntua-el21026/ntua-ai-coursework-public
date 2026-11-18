@@ -1,0 +1,8 @@
+,userId,movieId,movie_title,rating,timestamp
+0,700001,900001,Antenna at Daybreak,2.5,1704067200
+1,700001,900002,Brass Orbits,3.0,1704067201
+2,700001,900003,Copper Meridian,3.5,1704067202
+3,700001,900004,Dry Tide Observatory,4.0,1704067203
+4,700001,900005,Echos in Quartz,4.5,1704067204
+5,700001,900006,Far Lanterns,2.5,1704067205
+6,700001,900007,Glass Signal Station,3.0,1704067206
